@@ -69,7 +69,8 @@ Contributions
 **Jad Hajaig**
 - Developed algorithms, workflows, and backend logic for sessions.
 - Created project schema, UML class diagrams, UML state diagrams, UML Usecase diagrams, UML Sequence diagrams, and use case documentation.
-- Assisted in implementing session, treatment, and analysis logic within Qt.
+- Developed GUI components and assisted in refining backend logic
+- Implemented session, treatment, and analysis logic within Qt.
 - Assisted in textual design doc.
 
 **Abbas Mohamed**
